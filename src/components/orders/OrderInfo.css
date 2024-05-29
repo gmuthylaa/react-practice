@@ -1,0 +1,16 @@
+.orderInfoGrid {
+  width:100%
+}
+.orderInfoRow {
+  text-align: center;
+}
+.total-order {
+  font-weight: bolder;
+}
+.customer-info {
+    margin-left: 20px;
+    margin-bottom: 7px;
+}
+.customer-info-row {
+  margin-top: 5px;
+}

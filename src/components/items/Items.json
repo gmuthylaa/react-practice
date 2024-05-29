@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Idly",
+        "cost": 20.00,
+        "image": "idly.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dosa",
+        "cost": 50.00,
+        "image": "dosa.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Poori",
+        "cost": 70.00,
+        "image": "poori.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Vada",
+        "cost": 80.00,
+        "image": "vada.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tea",
+        "cost": 20.00,
+        "image": "tea.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Coffee",
+        "cost": 25.00,
+        "image": "coffee.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Omlet",
+        "cost": 25.00,
+        "image": "omlet.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Upma",
+        "cost": 25.00,
+        "image": "upma.jpg"
+    }
+
+]

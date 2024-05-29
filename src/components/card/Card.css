@@ -1,0 +1,26 @@
+.item-card-wrapper {
+    height: 200px;
+    width: 120px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #b1aaaa;
+    flex-basis: 25%;
+    margin-bottom: 5px;
+}
+.item-quantity-input {
+    width: 100px;
+}
+.card-item-image {
+    width: 100%;
+    height: 100%;
+}
+.item-card-image {
+    height: 85%;
+}
+.item-card-input {
+    height: 15%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 5px;
+}

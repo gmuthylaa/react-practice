@@ -1,0 +1,12 @@
+.search {
+    width: 95%;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 20px;
+}
+
+.all-items {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
